@@ -120,27 +120,27 @@
 
 ### 🔒 Proyectos Privados
 
-- — Clock-in/clock-out application
-- — Gestión de inscripciones a salas de escape room
-- — Tienda online de coleccionismo retro
-- — Web con IA para análisis de CVs
-- — Web multisitio para FicZone
-- — App para preparar viajes a Japón
-- — Análisis de movimientos contables
-- — Landing page para Vértigo Digital
-- — App web para mamacurry
-- — Gestión de almacén
-- — Gestión de invitados y actividades
-- — Reserva de citas para clínica
-- — Comunidad de Penpal España
-- — Web para BRIO Eventos
-- — Catálogo web para BRIO Eventos
-- — Web para FEJUVES
-- — Web corporativa para TuEvent
-- — Web para FLASH Fest! 2026
-- — Interacción con menciones en redes sociales
-- — Gestión de candidaturas y ofertas prácticas dual
-- — Aplicación de valoración de candidatos para la UGR
+- Clock-in/clock-out application
+- Gestión de inscripciones a salas de escape room
+- Tienda online de coleccionismo retro
+- Web con IA para análisis de CVs
+- Web multisitio para FicZone
+- App para preparar viajes a Japón
+- Análisis de movimientos contables
+- Landing page para Vértigo Digital
+- App web para mamacurry
+- Gestión de almacén
+- Gestión de invitados y actividades
+- Reserva de citas para clínica
+- Comunidad de Penpal España
+- Web para BRIO Eventos
+- Catálogo web para BRIO Eventos
+- Web para FEJUVES
+- Web corporativa para TuEvent
+- Web para FLASH Fest! 2026
+- Interacción con menciones en redes sociales
+- Gestión de candidaturas y ofertas prácticas dual
+- Aplicación de valoración de candidatos para la UGR
 
 ---
 
