@@ -120,27 +120,27 @@
 
 ### 🔒 Proyectos Privados
 
-- 🔒 FichaMe-App — Clock-in/clock-out application
-- 🔒 escaperoom — Gestión de inscripciones a salas de escape room
-- 🔒 coleccionistas — Tienda online de coleccionismo retro
-- 🔒 cv-pro — Web con IA para análisis de CVs
-- 🔒 ficzone — Web multisitio para FicZone
-- 🔒 japanhype — App para preparar viajes a Japón
-- 🔒 conta2026 — Análisis de movimientos contables
-- 🔒 vertigodigital — Landing page para Vértigo Digital
-- 🔒 mamacurry — App web para mamacurry
-- 🔒 almacen — Gestión de almacén
-- 🔒 invitados — Gestión de invitados y actividades
-- 🔒 parapequenoscv — Reserva de citas para clínica
-- 🔒 penpal — Comunidad de Penpal España
-- 🔒 brio — Web para BRIO Eventos
-- 🔒 brio-catalogo — Catálogo web para BRIO Eventos
-- 🔒 fejuves — Web para FEJUVES
-- 🔒 tuevent — Web corporativa para TuEvent
-- 🔒 flashfest — Web para FLASH Fest! 2026
-- 🔒 flash_hashtag — Interacción con menciones en redes sociales
-- 🔒 gestion-dual — Gestión de candidaturas y ofertas prácticas dual
-- 🔒 ats-ia — Aplicación de valoración de candidatos para la UGR
+- — Clock-in/clock-out application
+- — Gestión de inscripciones a salas de escape room
+- — Tienda online de coleccionismo retro
+- — Web con IA para análisis de CVs
+- — Web multisitio para FicZone
+- — App para preparar viajes a Japón
+- — Análisis de movimientos contables
+- — Landing page para Vértigo Digital
+- — App web para mamacurry
+- — Gestión de almacén
+- — Gestión de invitados y actividades
+- — Reserva de citas para clínica
+- — Comunidad de Penpal España
+- — Web para BRIO Eventos
+- — Catálogo web para BRIO Eventos
+- — Web para FEJUVES
+- — Web corporativa para TuEvent
+- — Web para FLASH Fest! 2026
+- — Interacción con menciones en redes sociales
+- — Gestión de candidaturas y ofertas prácticas dual
+- — Aplicación de valoración de candidatos para la UGR
 
 ---
 
