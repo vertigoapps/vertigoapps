@@ -120,35 +120,27 @@
 
 ### 🔒 Proyectos Privados
 
-| Proyecto | Descripción |
-|----------|-------------|
-| 🔒 FichaMe-App | Clock-in/clock-out application |
-| 🔒 escaperoom | Gestión de inscripciones a salas de escape room |
-| 🔒 coleccionistas | Tienda online de coleccionismo retro |
-| 🔒 cv-pro | Web con IA para análisis de CVs |
-| 🔒 ficzone | Web multisitio para FicZone |
-| 🔒 japanhype | App para preparar viajes a Japón |
-| 🔒 conta2026 | Análisis de movimientos contables |
-| 🔒 vertigodigital | Landing page para Vértigo Digital |
-| 🔒 mamacurry | App web para mamacurry |
-| 🔒 almacen | Gestión de almacén |
-| 🔒 invitados | Gestión de invitados y actividades |
-| 🔒 parapequenoscv | Reserva de citas para clínica |
-| 🔒 penpal | Comunidad de Penpal España |
-| 🔒 brio | Web para BRIO Eventos |
-| 🔒 brio-catalogo | Catálogo web para BRIO Eventos |
-| 🔒 fejuves | Web para FEJUVES |
-| 🔒 tuevent | Web corporativa para TuEvent |
-| 🔒 flashfest | Web para FLASH Fest! 2026 |
-| 🔒 flash_hashtag | Interacción con menciones en redes sociales |
-| 🔒 gestion-dual | Gestión de candidaturas y ofertas prácticas dual |
-| 🔒 ats-ia | |
-| 🔒 project_web_vertigo_apps | |
-| 🔒 fichame-app-cliente | |
-| 🔒 WeekendPlayWeb | |
-| 🔒 IA_GENERATIVA | |
-| 🔒 WeekendPlay | |
-| 🔒 fichame-client | |
+- 🔒 FichaMe-App — Clock-in/clock-out application
+- 🔒 escaperoom — Gestión de inscripciones a salas de escape room
+- 🔒 coleccionistas — Tienda online de coleccionismo retro
+- 🔒 cv-pro — Web con IA para análisis de CVs
+- 🔒 ficzone — Web multisitio para FicZone
+- 🔒 japanhype — App para preparar viajes a Japón
+- 🔒 conta2026 — Análisis de movimientos contables
+- 🔒 vertigodigital — Landing page para Vértigo Digital
+- 🔒 mamacurry — App web para mamacurry
+- 🔒 almacen — Gestión de almacén
+- 🔒 invitados — Gestión de invitados y actividades
+- 🔒 parapequenoscv — Reserva de citas para clínica
+- 🔒 penpal — Comunidad de Penpal España
+- 🔒 brio — Web para BRIO Eventos
+- 🔒 brio-catalogo — Catálogo web para BRIO Eventos
+- 🔒 fejuves — Web para FEJUVES
+- 🔒 tuevent — Web corporativa para TuEvent
+- 🔒 flashfest — Web para FLASH Fest! 2026
+- 🔒 flash_hashtag — Interacción con menciones en redes sociales
+- 🔒 gestion-dual — Gestión de candidaturas y ofertas prácticas dual
+- 🔒 ats-ia — Aplicación de valoración de candidatos para la UGR
 
 ---
 
